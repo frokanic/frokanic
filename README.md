@@ -48,7 +48,7 @@ val goalsFor2026 =
     
     
 
-var futurePlans: String =
+var futurePlans =
     """
     After I feel satisfied with my cmp work, open source contributions are
     something I plan on giving a try. Other than that, I would like to try 
@@ -57,14 +57,14 @@ var futurePlans: String =
     """.trimIndent()    
 
 
-var reachMeAt: Map<String, String> =
+var reachMeAt =
     mapOf(
         "email" to "f.rokanis@gmail.com",
         "linkedIn" to "www.linkedin.com/in/fotis-rokanis-a602ba202/"
     )
 
 
-var generalInterests: List<String> = 
+var generalInterests = 
 	listOf(
     	"Retro tech (Ranging from thinkpads to old retro game devices)",
         "Lifting & General Fitness",
