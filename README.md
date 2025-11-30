@@ -6,6 +6,7 @@ var title = "Android & CMP Developer"
 
 const val wishMeHappyBirthdayAt = "The 16th of March"
 
+
 var techStack: List<Pair<String, String>> =
     listOf(
         "Languages" to "Kotlin",
@@ -46,7 +47,6 @@ val goalsFor2026 =
     follow button and hop along.
     """.trimIndent()
     
-    
 
 var futurePlans =
     """
@@ -54,14 +54,7 @@ var futurePlans =
     something I plan on giving a try. Other than that, I would like to try 
     game dev, but who knows where the work I plan on currencly doing will 
     lead.
-    """.trimIndent()    
-
-
-var reachMeAt =
-    mapOf(
-        "email" to "f.rokanis@gmail.com",
-        "linkedIn" to "www.linkedin.com/in/fotis-rokanis-a602ba202/"
-    )
+    """.trimIndent()
 
 
 var generalInterests = 
