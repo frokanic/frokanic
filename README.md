@@ -9,11 +9,10 @@ const val wishMeHappyBirthdayAt = "The 16th of March"
 
 var techStack: List<Pair<String, String>> =
     listOf(
-        "Languages" to "Kotlin",
+        "Languages" to
+			"Kotlin",
         "Platforms" to (
-            "Android " +
-            "Compose Multiplatform (CMP) " +
-            "JVM backend (Spring Boot)"
+            "Android " + "Compose Multiplatform (CMP) " + "JVM backend (Spring Boot)"
         ),
         "Ecosystem / Libraries" to (
             "Coroutines & Flow " +
