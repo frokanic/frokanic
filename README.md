@@ -71,3 +71,8 @@ var generalInterests =
         "Riding my motorcycle (V-Strom 800 DE)"
     )
 ```
+
+## Connect
+
+[![Email](https://img.shields.io/badge/Email-f.rokanis%40gmail.com-informational?style=flat-square)](mailto:f.rokanis@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fotis--rokanis-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fotis-rokanis-a602ba202/)
