@@ -1,8 +1,7 @@
 <h1 align="center">Fotis Rokanis</h1>
 
-<p align="center"><b>Software Engineer — Mobile, Connected Devices, Payments &amp; SDKs</b></p>
-
-<p align="center">I build production software across mobile, desktop and connected devices, along with the SDKs, integrations and payment flows behind them.</p>
+<p align="center"><b>Software Engineer — Mobile, Connected Devices, Payments &amp; SDKs</b><br>
+<img src="./assets/spacer.svg" width="1" height="26" alt="" />I build production software across mobile, desktop and connected devices, along with the SDKs, integrations and payment flows behind them.</p>
 
 <img src="./assets/divider-pulse.svg" width="100%" height="6" alt="" />
 
