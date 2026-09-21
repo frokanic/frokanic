@@ -1,12 +1,17 @@
-# Fotis Rokanis
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frokanic/frokanic/main/assets/name-dark.svg" />
+    <img src="./assets/name-light.svg" height="56" alt="Fotis Rokanis" />
+  </picture>
+</p>
 
 <img src="./assets/divider-pulse.svg" width="100%" height="6" alt="" />
 
-**Software Engineer — Mobile, Connected Devices, Payments & SDKs**
+<p align="center"><b>Software Engineer — Mobile, Connected Devices, Payments &amp; SDKs</b></p>
 
-I build production software across mobile, desktop and connected devices, along with the SDKs, integrations and payment flows behind them.
+<p align="center">I build production software across mobile, desktop and connected devices, along with the SDKs, integrations and payment flows behind them.</p>
 
-## Focus
+<h3 align="center">Focus</h3>
 
 | Area | In practice |
 | --- | --- |
@@ -18,7 +23,9 @@ I build production software across mobile, desktop and connected devices, along 
 
 <img src="./assets/divider-sweep.svg" width="100%" height="6" alt="" />
 
-## Stack
+<!-- stack: only what's actually shipped. learning stuff -> cut it or grey it (#8B949E)-->
+
+<h3 align="center">Stack</h3>
 
 | Area | Technologies & Capabilities |
 | --- | --- |
@@ -34,9 +41,9 @@ I build production software across mobile, desktop and connected devices, along 
 
 <img src="./assets/divider-sweep.svg" width="100%" height="6" alt="" />
 
-## Selected work
+<h3 align="center">Selected work</h3>
 
-- **[Gists](https://gist.github.com/fotisrokanis)** — where most of my focused experiments live: UI, animation, graphics, rendering, shaders and platform APIs
+- **[Gists](https://gist.github.com/frokanic)** — where most of my focused experiments live: UI, animation, graphics, rendering, shaders and platform APIs
 - **Public projects — in progress** — larger applications and libraries when an idea is worth taking beyond an experiment
 
 Open to contributing to Kotlin, Compose, mobile, graphics and payments-adjacent projects. If you maintain something interesting and could use another engineering pair of eyes, get in touch.
@@ -55,4 +62,4 @@ Open to contributing to Kotlin, Compose, mobile, graphics and payments-adjacent 
 
 <img src="./assets/divider-drift.svg" width="100%" height="6" alt="" />
 
-[LinkedIn](https://www.linkedin.com/in/fotis-rokanis-a602ba202/) · [Email](mailto:f.rokanis@gmail.com)
+<p align="center"><a href="https://www.linkedin.com/in/fotis-rokanis-a602ba202/">LinkedIn</a> · <a href="mailto:f.rokanis@gmail.com">Email</a></p>
