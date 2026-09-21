@@ -1,17 +1,11 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frokanic/frokanic/main/assets/name-dark.svg" />
-    <img src="./assets/name-light.svg" height="56" alt="Fotis Rokanis" />
-  </picture>
-</p>
+<h1 align="center">Fotis Rokanis</h1>
+
+<p align="center"><b>Software Engineer — Mobile, Connected Devices, Payments &amp; SDKs</b><br>
+I build production software across mobile, desktop and connected devices, along with the SDKs, integrations and payment flows behind them.</p>
 
 <img src="./assets/divider-pulse.svg" width="100%" height="6" alt="" />
 
-<p align="center"><b>Software Engineer — Mobile, Connected Devices, Payments &amp; SDKs</b></p>
-
-<p align="center">I build production software across mobile, desktop and connected devices, along with the SDKs, integrations and payment flows behind them.</p>
-
-<h3 align="center">Focus</h3>
+<h2 align="center">Focus</h2>
 
 | Area | In practice |
 | --- | --- |
@@ -23,9 +17,8 @@
 
 <img src="./assets/divider-sweep.svg" width="100%" height="6" alt="" />
 
-<!-- stack: only what's actually shipped. learning stuff -> cut it or grey it (#8B949E)-->
 
-<h3 align="center">Stack</h3>
+<h2 align="center">Stack</h2>
 
 | Area | Technologies & Capabilities |
 | --- | --- |
@@ -41,7 +34,7 @@
 
 <img src="./assets/divider-sweep.svg" width="100%" height="6" alt="" />
 
-<h3 align="center">Selected work</h3>
+<h2 align="center">Selected work</h2>
 
 - **[Gists](https://gist.github.com/frokanic)** — where most of my focused experiments live: UI, animation, graphics, rendering, shaders and platform APIs
 - **Public projects — in progress** — larger applications and libraries when an idea is worth taking beyond an experiment
