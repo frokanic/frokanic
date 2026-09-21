@@ -1,72 +1,58 @@
-# Hi, I'm Fotis. Welcome to my profile 👋
+# Fotis Rokanis
 
-```kotlin
-const val NAME = "Fotis"
-var title = "Android & CMP Developer"
+<img src="./assets/divider-pulse.svg" width="100%" height="6" alt="" />
 
-const val wishMeHappyBirthdayAt = "The 16th of March"
+**Software Engineer — Mobile, Connected Devices, Payments & SDKs**
 
+I build production software across mobile, desktop and connected devices, along with the SDKs, integrations and payment flows behind them.
 
-var techStack: List<Pair<String, String>> =
-    listOf(
-        "Languages" to
-			"Kotlin",
-        "Platforms" to (
-            "Android " +
-			"Compose Multiplatform (CMP) " +
-			"JVM backend (Spring Boot)"
-        ),
-        "Ecosystem / Libraries" to (
-            "Coroutines & Flow " +
-            "Jetpack Compose " +
-            "Room " +
-            "Ktor " +
-            "Spring Boot " +
-            "Hilt/Koin "
-        ),
-        "Tooling & Environment" to (
-            "Android Studio " +
-            "IntelliJ IDEA " +
-            "Xcode " +
-            "Git " +
-            "Gradle "
-        ),
-        "Older Android tech stacks" to
-            """
-            I know them, but I do not mention them because I do not enjoy them.
-            I’ll use them for work, but this is a place for passion.
-            """.trimIndent()
-    )
+## Focus
 
+| Area | In practice |
+| --- | --- |
+| **Applications** | Software for Android, iOS, desktop, TV and wearables — native or multiplatform |
+| **Connected devices** | Kiosks, dedicated hardware and other device-integrated applications |
+| **Multiplatform** | Shared application logic and UI across platforms with Kotlin Multiplatform and Compose Multiplatform |
+| **Payments & SDKs** | Payment flows, terminal integrations and APIs other developers have to integrate with |
+| **Reliability** | Performance, observability, failure handling and production health |
 
-val goalsFor2026 =
-    """
-    Become proficient with Compose Multiplatform through hands-on work:
-    building full apps as well as smaller Compose challenges.
+<img src="./assets/divider-sweep.svg" width="100%" height="6" alt="" />
 
-    If this sounds like something you'd be into, feel free to press the 
-    follow button and hop along.
-    """.trimIndent()
-    
+## Stack
 
-var futurePlans =
-    """
-    After I feel satisfied with my cmp work, open source contributions are
-    something I plan on giving a try. Other than that, I would like to try 
-    game dev, but who knows where the work I plan on currencly doing will 
-    lead.
-    """.trimIndent()
+| Area | Technologies & Capabilities |
+| --- | --- |
+| **Languages** | Kotlin · Swift · C / C++ |
+| **Multiplatform & UI** | Jetpack Compose · Compose Multiplatform / Kotlin Multiplatform · SwiftUI |
+| **Graphics & Rendering** | Canvas · Custom Drawing · Shaders · AGSL / RuntimeShader · SkSL · Metal / MSL |
+| **Concurrency** | Coroutines · Flow |
+| **Data & Networking** | SQL · Persistence · HTTP / REST · GraphQL · API Integration |
+| **Build & Delivery** | Gradle · CI/CD · Release Automation · Firebase |
+| **Performance & Observability** | Profiling · Benchmarking · Startup Optimization · Crash Monitoring |
+| **Testing** | Unit · Integration · UI · Multiplatform Testing |
+| **Payments & Devices** | Payment Terminal SDKs · EMV · NFC · Kiosk / Device Management |
 
+<img src="./assets/divider-sweep.svg" width="100%" height="6" alt="" />
 
-var generalInterests = 
-	listOf(
-    	"Retro tech (Ranging from thinkpads to old retro game devices)",
-        "Lifting & General Fitness",
-        "Riding my motorcycle (V-Strom 800 DE)"
-    )
-```
+## Selected work
 
-## Connect
+- **[Gists](https://gist.github.com/fotisrokanis)** — where most of my focused experiments live: UI, animation, graphics, rendering, shaders and platform APIs
+- **Public projects — in progress** — larger applications and libraries when an idea is worth taking beyond an experiment
 
-[![Email](https://img.shields.io/badge/Email-f.rokanis%40gmail.com-informational?style=flat-square)](mailto:f.rokanis@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fotis--rokanis-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fotis-rokanis-a602ba202/)
+Open to contributing to Kotlin, Compose, mobile, graphics and payments-adjacent projects. If you maintain something interesting and could use another engineering pair of eyes, get in touch.
+
+<!-- todo: once there are 2+ public repos, pin them and add
+     "*Public repos are pinned below.*" under the list.
+     swap the "Public projects" bullet for the real thing: what it does + what was hard. -->
+
+<!-- todo (demo): only if something is actually impressive.
+     - animated webp, not gif/mp4
+     - max one here, <1 MB, ~600px wide, <10s
+     - goes under its project above; full demos live in that project's README
+     - keep it in ./assets/ (gists can't serve images)
+     - camo caches -> bump ?v=2 when replacing
+     - shaders are the likely candidate -->
+
+<img src="./assets/divider-drift.svg" width="100%" height="6" alt="" />
+
+[LinkedIn](https://www.linkedin.com/in/fotis-rokanis-a602ba202/) · [Email](mailto:f.rokanis@gmail.com)
